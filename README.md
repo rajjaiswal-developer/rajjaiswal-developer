@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi there, I'm Raj Jaiswal
 
-<!--
-**rajjaiswal-developer/rajjaiswal-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Student @ RJ College, Mumbai  
+💻 Frontend Developer | Web Designer  
+🎮 Game Development Intern @ Cyberfortix Technologies Pvt. Ltd.  
+🌐 Passionate about building creative & responsive web experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+- **Frontend**: HTML, CSS, JavaScript, WordPress  
+- **Backend**: PHP, MySQL  
+- **Programming**: C, C++, Python, DSA in C++  
+- **Database**: SQL, PL/SQL  
+- **IoT & Embedded Projects**  
+- **Tools**: VS Code, Canva, PowerPoint, Excel
+
+---
+
+## 💼 Projects
+- 🩸 **Donation Website** – A platform connecting donors and receivers  
+- 📢 **Social Media Awareness Website** – Promoting digital literacy  
+- 🧑‍💻 **Portfolio Website** – Showcasing my skills and journey  
+
+---
+
+## 🎯 What I'm Currently Working On
+- Learning full-cycle **Game Development** (GDD, prototyping, monetization, publishing)  
+- Improving my **frontend** and **WordPress** development skills  
+- Building dynamic applications using **PHP & MySQL**
+
+---
+
+## 🎮 Fun Facts
+- I enjoy **editing**, **design**, and **gaming** in my free time  
+- I love creating clean, user-friendly designs with purpose  
