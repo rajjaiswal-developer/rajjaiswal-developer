@@ -2,7 +2,7 @@
 
 🎓 BSc IT Student @ RJ College, Mumbai  
 💻 Frontend Developer | Web Designer  
-🎮 Game Development Intern @ Cyberfortix Technologies Pvt. Ltd.  
+🎮 Game Development Intern @ Work and Work Studios.  
 🌐 Passionate about building creative & responsive web experiences  
 
 ---
